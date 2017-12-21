@@ -1,2 +1,2 @@
 # machine_learning
-Practice of machine learning
+This repository is for practicing machine learning
